@@ -11,3 +11,8 @@ Fecha: 5/10/2026
 Resumen:
 Los errores han sido corregidos, se planea que esta sea la entrega completa, en caso contrario: reportar inmediatamente, hasta entonces el proyecto se considerará completado
 Saludos
+
+Alumno: Martín Pérez Larraburu
+Fecha: 8/10/2026
+Resumen:
+Finalmente se ha agregado un objeto para probar las distintas funciones del programa
